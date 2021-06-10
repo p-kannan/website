@@ -1,66 +1,60 @@
 ---
 layout: page
 title: Publications
-permalink: "publication"
+permalink: "publications"
 ---
 
-## 2020
+Select peer-reviewed publications are listed below. A full list is available [here](https://scholar.google.com/citations?hl=en&user=fMTua_QAAAAJ&view_op=list_works&sortby=pubdate).
+
+
+### 2021
 
 _________
 
-**Huang, Y.-T.**, Skelton, J., and Hulcr, J. 2020. Lipids and small metabolites provisioned by ambrosia fungi to symbiotic beetles are phylogeny-dependent, not convergent. The ISME Journal. 14: 1089–1099.
+Paczkowski M, Kretzschmar WW, Markelc B, Liu SK, Kunz-Schughart LA, Harris AL, Partridge M, Byrne HM*, **Kannan P***. Reciprocal interactions between tumour cell populations enhance growth and reduce radiation sensitivity in prostate cancer. _Communications Biol_ (2021) 4: 1-13 [[Article](https://www.nature.com/articles/s42003-020-01529-5)]
 
-**Huang, Y.-T.**, Eickwort, J., and Hulcr, J. 2020. Red Heart Disease in Pines Caused by _Porodaedalea_ (_Phellinus_) _pini_ in Florida. EDIS University of Florida/IFAS.
 
-## 2019
-
-_________
-
-**Huang, Y.-T.** and Hulcr, J. 2019. _Geosmithia_ species in Florida: a common fungal symbiont of wood-boring bark beetle. EDIS University of Florida/IFAS.
-
-**Huang, Y.-T.**, Skelton, J., Johnson, A.J., Kolařík, M., Hulcr, J., 2019. _Geosmithia_ species in southeastern USA and their affinity to beetle vectors and tree hosts. Fungal Ecology. 39: 168–183.
-
-**Huang, Y.-T.**, Skelton, J., Hulcr, J., 2019. Multiple evolutionary origins lead to diversity in the metabolic profiles of ambrosia fungi. Fungal Ecology, From antagonism to mutualism: the chemical basis of insect-fungus interactions 38: 80–88.
-
-## 2018
+### 2020
 
 _________
 
-Li, You, **Huang, Y.-T.**, Kasson, M.T., Maciasb, A.M., Skelton, J., Carlson, P., Yin, M., and Hulcr, J. Specific and promiscuous ophiostomatalean fungi associated with Platypodinae ambrosia beetles in the southeastern United States. 2018. Fungal Ecology. 35: 42–50.
+**Kannan P**, Füredi A, Dizdarevic S, Wanek T, Mairinger S, Collins J, Falls T, van Dam RM, Maheshwari D, Lee JT, Szakács G, Langer O. In vivo characterization of [18F]AVT-011 as a radiotracer for PET imaging of multidrug resistance. _Eur J Nucl Med Mol Imaging_ (2020) 47:2026–2035
 
-**Huang, Y.-T.**, Kolarik, M., Kasson, M.T., and Hulcr, J. 2018. Two new _Geosmithia_ species in _G. pallida_ species complex from bark beetles in eastern USA. Mycologia. 109(5): 790–803.
 
-Na, F., Carrillo, J.D., Mayorquin, J.S., Ndinga-Muniania, C., Stajich, J.E., Stouthamer, R., **Huang, Y.-T.**, Lin, Y.-T., Chen, C.Y., Eskalen, A., 2018. Two novel fungal symbionts _Fusarium kuroshium_ sp. nov. and _Graphium kuroshium_ sp. nov. of Kuroshio shot hole borer (_Euwallacea_ sp. nr. _fornicatus_) cause Fusarium dieback on woody host species in California. Plant Disease. 102(6): 1154-1164.
-
-## 2017
+### 2018
 
 _________
 
-Bateman, C, **Huang, Y.-T.**, Simmons, D. R., Kasson, M.T., Hulcr, J. 2017. Ambrosia beetle _Premnobius cavipennis_ (Scolytinae: Ipini) carries highly divergent ascomycotan ambrosia fungus, _Afroraffaelea ambrosiae_ gen. nov. et sp. nov. (Ophiostomatales). Fungal Ecology. 25: 41–49.
+**Kannan P**, Kretzschmar WW, Winter H, Warren DR, Bates R, Allen PD, Syed N, Irving B, Papież BW, Kaeppler J, Markelc B, Kinchesh P, Gilchrist S, Smart SC, Schnabel JA, Maughan TS, Harris AL, Muschel RJ, Partridge M, Sharma RA, Kersemans V. 2018. Functional parameters derived from magnetic resonance imaging reflect vascular morphology in preclinical tumors and in human liver metastases. Clin Canc Res 24 (19): 4694-4704. [Article]
 
-## 2016
-
-_________
-
-Li, You, Gu, Xinyao, Kasson, M.T., Bateman, C., Guo, Jianjun, **Huang, Y.-T.**, Li, Qiao, Rabaglia, R. J., Hulcr, J. 2016. Distribution, host records and symbiotic fungi of _Euwallacea fornicatus_ (Eichhoff) (Coleoptera: Curculionidae: Scolytinae) in China. Florida Entomologist. 99 (4): 801–804.<br>
-
-Simmons, D.R., de Beer, Z. W., **Huang, Y.-T.**, Bateman, C., Campbell, A.S., Dreaden, T.J., Li, Y., Ploetz, R.C., Black, A., Li, H.-F., Chen, C.-Y., Wingfield, 
-M.J., Hulcr, J. 2016. New _Raffaelea_ species (Ophiostomatales) from the USA and Taiwan associated with ambrosia beetles and plant hosts. IMA Fungus. 7 (2): 265–273.
-
-**Huang, Y.-T.**, Lucky, A., Hulcr, J., and Johnson, A. 2016. A Bark Beetle _Hypothenemus eruditus_ Westwood, 1836 (Insecta: Coleoptera: Curculionidae: Scolytinae). EDIS University of Florida/IFAS.
-
-Lin, Y.-T., Shih, H.-H., **Huang, Y.-T.**, Lin, C.-S., Chen, C.-Y., 2016. Two species of beetle-associated _Geosmithia_ in Taiwan. Fungal Science 31: 29–36.
-
-## 2015 & earlier
+### 2017
 
 _________
 
-Wu, Y.-F., **Huang, Y.-T.**, Chang, C.-H., Cheng, A.-H., and Chen, C.-Y. 2015. Mango Malformation Disease. Proceedings of the Symposium on Important New Emerging Crop Diseases in Taiwan and Their Controls. 184: 43–50.
+Collis J, Connor AJ, Paczkowski, **Kannan P**, Pitt-Francis, Byrne H, Hubbard ME. Bayesian calibration, validation and uncertainty quantification for predictive modelling of tumor growth: a tutorial. . Bull Math Biol 79 (4): 939-974 [Article]
 
-Huang, J.W., Chen, C.Y. and **Huang, Y.-T.** 2014. Introduction of Plant Diseases and Fungal Pathogens. Science Study Monthly. 53 (2): 2–11.
+### 2016
 
-**Huang, Y.-T.** and Chen, C.Y. 2014. _Leptographium globosum_ sp. nov., a new species with globose conidia. Mycological progress. 13 (3): 841–848.
+_________
 
-**Huang, Y.-T.** and Chen, C.Y. 2013. _Ophiostoma denticiliatum_, a new record in Taiwan. Fungal Science. 28 (1): 31–38.
+**Kannan P**, Schain M, Kretzschmar WW, Weidner L, Mitsios N, Gulyas B, Blom H, Gottesman MM, Innis RB, Hall MD, Mulder J. An automated method measures variability in P-gp and ABCG2 densities across brain regions and brain matter. J. Cereb. Blood Flow Metab., doi: 10.1177/0271678X16660984 [Article]
 
-**Huang, Y.-T.** and Chen, C.Y. 2010. Two _Thielaviopsis_ species on carrots in Taiwan. Fungal Science 25(2): 69–74.
+Grimes D, **Kannan P**, Markelc B, Bates R, Muschel RJ, Partridge M. Estimating oxygen distribution from vasculature in 3D tumour tissue. J. R. Soc. Interface, 13(116): 20160070 [Article]
+
+Grimes D, **Kannan P**, McIntyre A, Kavanagh A, Siddiky A, Wigfield S, Harris A, Partridge M. The role of oxygen on multicellular tumor spheroid growth. PLoS ONE, 11(4): e0153692 [Article]
+
+### 2015 & earlier
+
+_________
+
+Mirecka J, Irving B, **Kannan P**, Kersemans V, Allen PD, Smart SC, Kinchesh P, Muschel RJ, Jenkinson M, Schnabel J. Statistical Texture Modeling of Tumour Perfusion Heterogeneity in Dynamic Contrast Enhanced MRI. Comp. Meth. Molec. Imaging: MICCAI 2015 [Article]
+
+Kersemans V, **Kannan P**, Beech JS, Bates R, Irving B, Gilchrist S, Allen PD, Thompson J, Kinchesh P, Casteleyn C, Schnabel J, Partridge M, Muschel RJ, Smart SC. Improving in vivo high-resolution CT imaging of the tumour vasculature in xenograft mouse models through reduction of motion and bone-streak artefacts. PLoS ONE, 10(6):e0128537 [Article]
+
+Bates R, Risser L, Irving B, Papiez B, **Kannan P**, Kersemans V, Schnabel J. Filling large discontinuities in 3D vascular networks using skeleton and intensity based information. Comp. Meth. Molec. Imaging: MICCAI 2015 [Article]
+
+Kelly CJ, Hussien K, Fokas E, **Kannan P**, Shipley RJ, Ashton TM, Stratford M, Pearson N, Muschel RJ. Regulation of O2 consumption by the PI3K and mTOR pathways contributes to tumor hypoxia, Radiother Oncol, 111:72-80. [Article]
+
+**Kannan P**, Pike VW, Halldin C, Langer O, Gottesman MM, Innis RB, Hall MD. Factors that limit positron emission tomography imaging of P-glycoprotein density at the blood-brain barrier. Mol Pharmaceutics, 10: 2222-9 [Article]
+
+**Kannan P**, Brimacombe KR, Kreisl WC, Liow JS, Zoghbi SS, Telu S, Zhang Y, Pike VW, Halldin C, Gottesman MM, Innis RB, Hall MD. Lysosomal trapping of a radiolabeled substrate of P-glycoprotein as a mechanism for signal amplification in PET. Proc Natl Acad Sci, 108: 2593-2598. [Article]
